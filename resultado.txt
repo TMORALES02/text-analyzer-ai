@@ -1,0 +1,11 @@
+la cantidad de palabras es 973
+la cantidad de frases es 65
+la cantidad de caracteres es 5561
+la palabra mas repetida es la y aparece 49 veces
+
+Resumen:
+ Un día de invierno, la Reina deseó tener una hija blanca como la nieve, sonrosada como la sangre y de cabellos negros como el ébano, y así nació Blancanieves.  
+La madrastra, celosa de la belleza de Blancanieves, ordenó su muerte, pero el cazador la perdonó y Blancanieves se refugió en la casa de siete enanitos.  
+Los enanitos cuidaron de Blancanieves, advirtiéndole que no abriera la puerta a nadie, pero la malvada Reina la engañó con una manzana envenenada que la dejó en estado de muerte aparente.  
+Los enanitos la velaron en un ataúd de cristal hasta que un príncipe llegó, se enamoró y al transportarla accidentalmente quitó el veneno que la despertó.  
+Blancanieves y el Príncipe se casaron y vivieron felices para siempre en su castillo.
